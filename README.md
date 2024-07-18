@@ -1,4 +1,4 @@
-# Projeto Busca Cep
+# Projeto Tabela Fipe
 Este é um projeto que desenvolvi junto com o curso de Java: trabalhando com lambdas, streams e Spring Framework, da Escola de programação da alura
 ## Índice
 
